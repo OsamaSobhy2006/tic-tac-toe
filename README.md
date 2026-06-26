@@ -90,7 +90,7 @@ Returns the optimal move using the Minimax algorithm.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/tic-tac-toe-ai.git
+git clone https://github.com/OsamaSobhy2006/tic-tac-toe.git
 ```
 
 Navigate into the project:
